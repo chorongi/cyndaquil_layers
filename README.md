@@ -1,9 +1,7 @@
 # ml_layers
-[![Build Status](https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/badge.svg)]()
-
+[![Build Status](https://github.com/chorongi/ml_layers/actions/workflows/tests.yml/badge.svg)]()
 [![Downloads](https://img.shields.io/github/downloads/chorongi/ml_layers/total.svg)]()
 
-[![Coverage Status](https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/coverage.svg)]()
 This repository is a public repo that includes implementation of core layers commonly used in current machine learning models.
 
 # Installation
