@@ -1,5 +1,5 @@
 # ml_layers
-[![Build Status](https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/badge.svg)]
+[![Build Status](https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/badge.svg)]()
 
 [![Downloads](https://img.shields.io/github/downloads/chorongi/ml_layers/total.svg)]()
 
