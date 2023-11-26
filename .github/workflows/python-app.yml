@@ -36,5 +36,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest
+        pytest tests/test*
         coverage-badge -o "https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/coverage.svg"
