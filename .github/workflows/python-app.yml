@@ -37,3 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        coverage-badge -o "https://github.com/chorongi/ml_layers/actions/workflows/python-app.yml/coverage.svg"
