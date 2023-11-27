@@ -1,4 +1,4 @@
-# ml_layers
+# ml-layers
 [![Build Status](https://github.com/chorongi/ml_layers/actions/workflows/tests.yml/badge.svg)]()
 [![Downloads](https://img.shields.io/github/downloads/chorongi/ml_layers/total.svg)]()
 
